@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://exhlim.github.io/sitemap.xml
+Host: https://exhlim.github.io
